@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<HTML>
-  <head>
-    <title>Mi primer WEB2</title>
-  </head>
-  <body>
-    <div id="una capa">
-      <h1>Hola mundo!</h1>
-      <p>a ver si esto se guarda Este es un ejemplo del uso de HTML para crear un documento web que nuestro navegador es capaz de interpretar.</p>
-    </div>
-  </body>  
-</HTML>
+body {
+  background-color: rgb(182, 182, 27);
+}
+h1 {
+  color: rgb(53, 53, 190);
+  margin-right: 30px;
+}
